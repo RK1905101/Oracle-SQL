@@ -65,7 +65,7 @@ addressId = 1 contains information about the address of personId = 2.
 
 ---------------------------------------------------------------------------------------------------------
 
-**SOLUTION*
+**SOLUTION**
 
 /* Write your PL/SQL query statement below */
 
